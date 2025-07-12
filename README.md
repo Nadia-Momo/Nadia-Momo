@@ -33,18 +33,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nadia-Momo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Longest streak & current streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nadia-Momo&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nadia-Momo&theme=radical&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadia-Momo&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Total contributions & commits" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadia-Momo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadia-Momo&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
